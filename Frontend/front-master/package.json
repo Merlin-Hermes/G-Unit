@@ -1,6 +1,6 @@
 {
-  "name": "clientes-app",
-  "version": "0.0.0",
+  "name": "G-Unit",
+  "version": "1.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -21,6 +21,7 @@
     "@angular/router": "~9.1.1",
     "bootstrap": "^4.6.1",
     "jquery": "^3.6.0",
+    "primeicons": "^6.0.1",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
